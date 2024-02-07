@@ -10,7 +10,7 @@
 - 💻 I’m currently working at [BYU](https://education.byu.edu/) 
 
 #### Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=vue,ts,sass,redis,react,raspberrypi,py,postman,postgres,php,nodejs,nginx,mysql,linux,jquery,js,java,html,css,bootstrap,heroku,gradle,git,glutter,firebase,docker,django,c,cpp,aws,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,sass,redis,react,raspberrypi,py,postman,postgres,php,nodejs,nginx,mysql,linux,jquery,js,java,html,css,bootstrap,heroku,gradle,git,flutter,firebase,docker,django,c,cpp,aws,androidstudio)](https://skillicons.dev)
 
 <br />
 
