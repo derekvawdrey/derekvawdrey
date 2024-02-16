@@ -24,10 +24,11 @@
  <p align='left'>
    <a href="https://www.linkedin.com/in/derek-vawdrey-536161b2/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://github.com/derekvawdrey" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
- 
+ <a href="dreemobile://dree.com">Test link here.</a>
+  
  </p>
 
 ![pv](https://pageview.vercel.app/?github_user=derekvawdrey)
 
-<a href="dreemobile://dree.com">Test link here.</a>
+
 -----
