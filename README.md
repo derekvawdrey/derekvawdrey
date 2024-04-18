@@ -6,7 +6,7 @@
  
 <a href="https://github.com/derekvawdrey"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm an Electrical Engineering Student at BYU
+- 🎓 I'm am studying Computer Science with an emphasis in Machine Learning and Artificial Intellgience
 - 💻 I’m currently working at [BYU](https://education.byu.edu/)
 - I do freelance work, my rate is $50/hr. App, web, and software development.
 - For a list of experience, view my [LinkedIn](https://www.linkedin.com/in/derek-vawdrey-536161b2/details/experience/)
