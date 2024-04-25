@@ -15,9 +15,6 @@
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=derekvawdrey&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/derekvawdrey?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=derekvawdrey&layout=compact&langs_count=6&theme=blue-green)](https://github.com/derekvawdrey)
-
-
 #### Find me on  
 
  <p align='left'>
