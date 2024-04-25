@@ -8,7 +8,6 @@
 
 - 🎓 I'm am studying Computer Science with an emphasis in Machine Learning and Artificial Intellgience
 - 💻 I’m currently working at [BYU](https://education.byu.edu/)
-- I do freelance work, my rate is $50/hr. App, web, and software development.
 - For a list of experience, view my [LinkedIn](https://www.linkedin.com/in/derek-vawdrey-536161b2/details/experience/)
 
 #### Languages and Tools 
@@ -27,8 +26,5 @@
 
   
  </p>
-
-![pv](https://pageview.vercel.app/?github_user=derekvawdrey)
-
 
 -----
