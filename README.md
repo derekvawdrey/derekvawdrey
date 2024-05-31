@@ -8,6 +8,7 @@
 
 - 🎓 I am studying Computer Science with an emphasis in Machine Learning and Artificial Intellgience
 - 💻 I’m currently working at [BYU](https://education.byu.edu/)
+- Strong advocate for coding in microsoft powerpoint.
 - For a list of experience, view my [LinkedIn](https://www.linkedin.com/in/derek-vawdrey-536161b2/details/experience/)
 
 #### Languages and Tools 
