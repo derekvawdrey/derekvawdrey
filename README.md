@@ -6,10 +6,9 @@
  
 <a href="https://github.com/derekvawdrey"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I am studying Computer Science with an emphasis in Machine Learning and Artificial Intellgience
-- 💻 I’m currently working at [BYU](https://education.byu.edu/)
+- 🎓 I graduated from BYU with a BS in Computer Science, with an emphasis in Machine Learning and Artificial Intelligence
 - Strong advocate for coding in microsoft powerpoint.
-- For a list of experience, view my [LinkedIn](https://www.linkedin.com/in/derek-vawdrey-536161b2/details/experience/)
+- For a list of experience, view my [LinkedIn](https://www.linkedin.com/in/derek-vawdrey/details/experience/)
 
 #### Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=vue,ts,sass,redis,react,raspberrypi,py,postman,postgres,php,nodejs,nginx,mysql,linux,jquery,js,java,html,css,bootstrap,heroku,gradle,git,flutter,firebase,docker,django,c,cpp,aws,androidstudio)](https://skillicons.dev)
